@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Klinstare
 - 👀 I’m interested in R, machine learning, computer vision and medicine.
-- 🌱 I’m currently learning R and python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m currently learning Python and R.
+-  
 
 <!---
 Klinstare/Klinstare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
