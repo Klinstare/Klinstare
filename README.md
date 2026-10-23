@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Klinstare
 - 👀 I’m interested in R, machine learning, computer vision and medicine.
-- 🌱 I’m currently learning Python and R.
+- 🌱 I’m currently learning Python，R and Agent coding.
   
 
 <!---
